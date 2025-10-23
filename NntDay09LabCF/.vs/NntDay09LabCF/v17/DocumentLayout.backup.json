@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\LapTrinhWED\\NntDay09LabCF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|d:\\laptrinhwed\\nntday09labcf\\views\\nnt_loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|solutionrelative:views\\nnt_loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|d:\\laptrinhwed\\nntday09labcf\\models\\nnt_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|solutionrelative:models\\nnt_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|d:\\laptrinhwed\\nntday09labcf\\controllers\\nnt_loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|solutionrelative:controllers\\nnt_loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|d:\\laptrinhwed\\nntday09labcf\\views\\nnt_loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|solutionrelative:views\\nnt_loaisanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BBBD7DB-2B84-4CF3-99CF-0FC6A8DC5FDF}|NntDay09LabCF.csproj|d:\\laptrinhwed\\nntday09labcf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -78,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Nnt_SanPham.cs",
               "DocumentMoniker": "D:\\LapTrinhWED\\NntDay09LabCF\\Models\\Nnt_SanPham.cs",
               "RelativeDocumentMoniker": "Models\\Nnt_SanPham.cs",
               "ToolTip": "D:\\LapTrinhWED\\NntDay09LabCF\\Models\\Nnt_SanPham.cs",
               "RelativeToolTip": "Models\\Nnt_SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T00:50:45.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LapTrinhWED\\NntDay09LabCF\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Nnt_LoaiSanPhamController.cs",
               "DocumentMoniker": "D:\\LapTrinhWED\\NntDay09LabCF\\Controllers\\Nnt_LoaiSanPhamController.cs",
               "RelativeDocumentMoniker": "Controllers\\Nnt_LoaiSanPhamController.cs",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWED\\NntDay09LabCF\\Views\\Nnt_LoaiSanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Nnt_LoaiSanPham\\Index.cshtml",
