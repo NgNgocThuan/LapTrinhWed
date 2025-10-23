@@ -1,0 +1,30 @@
+﻿@model NntDay09LabCF.Models.Nnt_LoaiSanPham
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Nnt_LoaiSanPham</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nntMaLoai)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nntMaLoai)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nntTenLoai)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nntTenLoai)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.nntId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
